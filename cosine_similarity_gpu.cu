@@ -1,4 +1,4 @@
-ct #include<stdio.h>
+#include<stdio.h>
 #include <cuda.h>
 #include <stdlib.h>
 #include <math.h>
